@@ -13,7 +13,7 @@ printf "\e[1;92m       ⁪⁬⁮⁮⁮⁮         ⁪⁬⁮⁮⁮⁮   \e[0m\e"
 printf "\e[1;92m       ⁪⁬⁮⁮⁮⁮         ⁪⁬⁮⁮⁮⁮   \e[0m\e"
 
 printf "\e[1;92m   𝙃𝘼𝘾𝙆 𝙒𝙀𝘽𝘾𝘼𝙈 📸\e[0m\e   \e[0m\n"
-printf "\e[1;92m   Canal telegram: T.me/SeZaR_TeCh\e[0m                                 \n"
+                                 \n"
 
 printf " \e[1;77m v1.0 coded by N3Ro0Xe[0m \n"
 
